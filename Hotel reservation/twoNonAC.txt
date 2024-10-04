@@ -1,0 +1,8 @@
+Table-No.=>21*21
+Table-No.=>23*23
+Table-No.=>24*24
+Table-No.=>25*25
+Table-No.=>26*26
+Table-No.=>27*27
+Table-No.=>28*28
+Table-No.=>29*29

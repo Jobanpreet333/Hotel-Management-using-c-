@@ -1,0 +1,8 @@
+Table-No.=>31*31
+Table-No.=>32*32
+Table-No.=>33*33
+Table-No.=>34*34
+Table-No.=>35*35
+Table-No.=>36*36
+Table-No.=>38*38
+Table-No.=>39*39
